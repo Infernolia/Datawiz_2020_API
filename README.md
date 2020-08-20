@@ -5,7 +5,7 @@ Week 2 Syllabus: Learning how to scrape data using APIs
 1. Raghavendra Kharosekar<BR>
 2. Anupam Patil<BR>
 3. Pushkar and Tanuj<BR>
-4. Shrikrishna Zhipare<BR>
+4. Shrikrushna Zirape<BR>
 5. Ashwaq Khazi<BR>
 6. Megha Dandapat<BR>
 7. Aman Naikwadi<BR>
